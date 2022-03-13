@@ -1,0 +1,10 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="960" y="510" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="632" y="143" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@144dpi" x="461" y="213" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="504" y="245" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@144dpi" x="807" y="744" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@144dpi" width="600" height="285" />
+  </component>
+</application>
